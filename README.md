@@ -1,9 +1,9 @@
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1 align="center">Hi 👋, I'm Aarav Chauhan</h1>
 <h3 align="center">A Professional Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaravchauhan18" alt="aaravchauhan18" /></a> </p>
 
