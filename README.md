@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Android, MERN**
 
-- 👯 I’m looking to collaborate on **ANdroid Development**
+- 👯 I’m looking to collaborate on **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaravchauhan18](https://github.com/aaravchauhan18)
 
