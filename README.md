@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1 align="center">Hi 👋, I'm Aarav Chauhan</h1>
 <h3 align="center">A Professional Developer</h3>
