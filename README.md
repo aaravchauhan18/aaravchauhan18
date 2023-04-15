@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" height="80%" width="80%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- <img align="center" alt="Coding" height="80%" width="80%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
+<img align="center" alt="Coding"  width="100%" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)">
 
 <h1 align="center">Hi 👋, I'm Aarav Chauhan</h1>
 <h3 align="center">A Professional Developer</h3>
