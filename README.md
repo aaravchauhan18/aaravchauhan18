@@ -1,8 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="center" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">">
+
 <h1 align="center">Hi 👋, I'm Aarav Chauhan</h1>
 <h3 align="center">A Professional Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaravchauhan18" alt="aaravchauhan18" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aaravchauhan18" target="blank"><img src="https://img.shields.io/twitter/follow/aaravchauhan18?logo=twitter&style=for-the-badge" alt="aaravchauhan18" /></a> </p>
 
@@ -10,9 +13,15 @@
 
 - 🌱 I’m currently learning **Android, MERN**
 
+- 👯 I’m looking to collaborate on **ANdroid Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/aaravchauhan18](https://github.com/aaravchauhan18)
+
+- 💬 Ask me about **Computer Field**
+
 - 📫 How to reach me **aaravchauhan2211@gmail.com**
 
-- ⚡ Fun fact **Acclimatizer Person**
+- ⚡ Fun fact **jovial**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
