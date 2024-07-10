@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **various projects.**
 
-- 🌱 I’m currently learning **Android, MERN**
+- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Android Development**
+- 👯 I’m looking to collaborate on **Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaravchauhan18](https://github.com/aaravchauhan18)
 
